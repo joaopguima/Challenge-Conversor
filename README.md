@@ -10,3 +10,6 @@ Nesta oportunidade foi solicitado para nós Devs a criação de um conversor de 
   - Converter de Reais a Libras Esterlinas
   - Converter de Reais a Peso argentino
   - Converter de Reais a Peso Chileno
+
+    
+![image](https://github.com/joaopguima/Challenge-Conversor/assets/136766521/32d41f2d-50c0-4398-837d-a54ea33dc5d1)

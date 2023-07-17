@@ -13,3 +13,11 @@ Nesta oportunidade foi solicitado para nós Devs a criação de um conversor de 
 
     
 ![image](https://github.com/joaopguima/Challenge-Conversor/assets/136766521/32d41f2d-50c0-4398-837d-a54ea33dc5d1)
+![image](https://github.com/joaopguima/Challenge-Conversor/assets/136766521/e1315bbe-a7e9-4a1b-bfb5-d7321c9d28ed)
+![image](https://github.com/joaopguima/Challenge-Conversor/assets/136766521/2fde3e94-a9cb-4329-b131-7cd4d91bc1f6)
+![image](https://github.com/joaopguima/Challenge-Conversor/assets/136766521/327fc6de-8b9f-474b-9cf7-b9635985fed0)
+![image](https://github.com/joaopguima/Challenge-Conversor/assets/136766521/6666beb5-cc0a-4a62-9fe1-5a823d48ea74)
+
+
+
+

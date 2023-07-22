@@ -22,8 +22,3 @@ Nesta oportunidade foi solicitado para nós Devs a criação de um conversor de 
 ![image](https://github.com/joaopguima/Challenge-Conversor/assets/136766521/2fde3e94-a9cb-4329-b131-7cd4d91bc1f6)
 ![image](https://github.com/joaopguima/Challenge-Conversor/assets/136766521/327fc6de-8b9f-474b-9cf7-b9635985fed0)
 ![image](https://github.com/joaopguima/Challenge-Conversor/assets/136766521/6666beb5-cc0a-4a62-9fe1-5a823d48ea74)
-
-
-
-
->>>>>>> 99be724fc8ffb9b8fd438b9968c8460a65369d48

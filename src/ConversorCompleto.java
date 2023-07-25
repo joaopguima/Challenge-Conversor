@@ -19,6 +19,7 @@ public class ConversorCompleto {
 		int fahrenheit = 32;
 		
 		
+		
 
 		Object[] inicioPrograma = { "Conversor de Moeda", "Conversor de Temperatura"};
 
@@ -83,7 +84,7 @@ public class ConversorCompleto {
 				}
 				
 				double valor2 = Double.parseDouble(inserindoValores2);
-				JOptionPane.showMessageDialog(null, String.format("O valor convertido é %.0fºF ", valor2 * fahrenheit));
+				JOptionPane.showMessageDialog(null, String.format("O valor convertido é %.0fºF ", valor2 * 1.8 + 32));
 				
 				} else {
 					cancelaprograma.finalizado();

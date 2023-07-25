@@ -94,7 +94,7 @@ public class ConversorCompleto {
 				JOptionPane.YES_NO_CANCEL_OPTION, JOptionPane.QUESTION_MESSAGE);
 		if (resposta == JOptionPane.CANCEL_OPTION || resposta == JOptionPane.NO_OPTION) {
 			cancelaprograma.finalizado();
-		} if(resposta == JOptionPane.CANCEL_OPTION) {
+		} if(resposta == JOptionPane.YES_OPTION) {
 			main(null);
 		}
 	}

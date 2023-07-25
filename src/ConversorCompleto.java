@@ -48,25 +48,25 @@ public class ConversorCompleto {
 			if (giromoedas == "De Reais a Dólares") {
 					JOptionPane.showMessageDialog(null, String.format("O valor convertido é $ %.2f ", valor / valorDolar));
 				} else if (giromoedas == "De Reais a Euros") {
-					JOptionPane.showMessageDialog(null, String.format("O valor convertido é $ %.2f ", valor / valorEuro));
+					JOptionPane.showMessageDialog(null, String.format("O valor convertido é € %.2f ", valor / valorEuro));
 	
 				} else if (giromoedas == "De Reais a Libras") {
-					JOptionPane.showMessageDialog(null, String.format("O valor convertido é $ %.2f ", valor / valorLibras));
+					JOptionPane.showMessageDialog(null, String.format("O valor convertido é £ %.2f ", valor / valorLibras));
 	
 				} else if (giromoedas == "De Reais a Yenes") {
-					JOptionPane.showMessageDialog(null, String.format("O valor convertido é $ %.2f ", valor / valorIene));
+					JOptionPane.showMessageDialog(null, String.format("O valor convertido é ¥ %.2f ", valor / valorIene));
 	
 				} else if (giromoedas == "De Reais a Won Coreano") {
-					JOptionPane.showMessageDialog(null, String.format("O valor convertido é $ %.2f ", valor / valorWon));
+					JOptionPane.showMessageDialog(null, String.format("O valor convertido é ₩ %.2f ", valor / valorWon));
 	
 				} else if (giromoedas == "De Dólares a Reais") {
-					JOptionPane.showMessageDialog(null, String.format("O valor convertido é $ %.2f ", valor * valorDolar));
+					JOptionPane.showMessageDialog(null, String.format("O valor convertido é R$ %.2f ", valor * valorDolar));
 	
 				} else if (giromoedas == "De Euros a Reais") {
-					JOptionPane.showMessageDialog(null, String.format("O valor convertido é $ %.2f ", valor * valorEuro));
+					JOptionPane.showMessageDialog(null, String.format("O valor convertido é R$ %.2f ", valor * valorEuro));
 	
 				} else if (giromoedas == "De Libras a Reais") {
-					JOptionPane.showMessageDialog(null, String.format("O valor convertido é $ %.2f ", valor * valorLibras));
+					JOptionPane.showMessageDialog(null, String.format("O valor convertido é R$ %.2f ", valor * valorLibras));
 	
 				} else {
 					cancelaprograma.finalizado();
